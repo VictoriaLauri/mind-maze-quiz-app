@@ -1,0 +1,206 @@
+[
+  {
+    "id": 1,
+    "question": "Which of the following is NOT a programming language?",
+    "options": ["Python", "Java", "HTML", "C++"],
+    "correctAnswer": "HTML"
+  },
+  {
+    "id": 2,
+    "question": "What is the chemical symbol for gold?",
+    "options": ["Au", "Ag", "Go", "Fe"],
+    "correctAnswer": "Au"
+  },
+  {
+    "id": 3,
+    "question": "What gas do plants absorb from the atmosphere?",
+    "options": ["Oxygen", "Nitrogen", "Carbon Dioxide", "Hydrogen"],
+    "correctAnswer": "Carbon Dioxide"
+  },
+  {
+    "id": 4,
+    "question": "What year did World War II end?",
+    "options": ["1939", "1942", "1945", "1950"],
+    "correctAnswer": "1945"
+  },
+  {
+    "id": 5,
+    "question": "Which country is home to the Great Pyramid of Giza?",
+    "options": ["Greece", "Mexico", "Egypt", "China"],
+    "correctAnswer": "Egypt"
+  },
+  {
+    "id": 6,
+    "question": "Who wrote Romeo and Juliet?",
+    "options": [
+      "Charles Dickens",
+      "William Shakespeare",
+      "Jane Austen",
+      "Mark Twain"
+    ],
+    "correctAnswer": "William Shakespeare"
+  },
+  {
+    "id": 7,
+    "question": "Which planet is known as the Red Planet?",
+    "options": ["Venus", "Jupiter", "Mars", "Saturn"],
+    "correctAnswer": "Mars"
+  },
+  {
+    "id": 8,
+    "question": "What is the capital of Canada?",
+    "options": ["Toronto", "Ottawa", "Vancouver", "Montreal"],
+    "correctAnswer": "Ottawa"
+  },
+  {
+    "id": 9,
+    "question": "Which language has the most native speakers?",
+    "options": ["English", "Spanish", "Mandarin Chinese", "Hindi"],
+    "correctAnswer": "Mandarin Chinese"
+  },
+  {
+    "id": 10,
+    "question": "Which river is the longest in the world?",
+    "options": [
+      "Amazon River",
+      "Nile River",
+      "Yangtze River",
+      "Mississippi River"
+    ],
+    "correctAnswer": "Nile River"
+  },
+  {
+    "id": 11,
+    "question": "Who discovered gravity after observing a falling apple?",
+    "options": [
+      "Albert Einstein",
+      "Galileo Galilei",
+      "Isaac Newton",
+      "Nikola Tesla"
+    ],
+    "correctAnswer": "Isaac Newton"
+  },
+  {
+    "id": 12,
+    "question": "What is the hardest natural substance on Earth?",
+    "options": ["Gold", "Iron", "Diamond", "Quartz"],
+    "correctAnswer": "Diamond"
+  },
+  {
+    "id": 13,
+    "question": "Which gas makes up the majority of Earth's atmosphere?",
+    "options": ["Oxygen", "Carbon Dioxide", "Nitrogen", "Hydrogen"],
+    "correctAnswer": "Nitrogen"
+  },
+  {
+    "id": 14,
+    "question": "If a triangle has angles of 90° and 45°, what is the third angle?",
+    "options": ["30°", "45°", "60°", "90°"],
+    "correctAnswer": "45°"
+  },
+  {
+    "id": 15,
+    "question": "Which vitamin is produced when the skin is exposed to sunlight?",
+    "options": ["Vitamin A", "Vitamin B12", "Vitamin C", "Vitamin D"],
+    "correctAnswer": "Vitamin D"
+  },
+  {
+    "id": 16,
+    "question": "If 5x = 20, what is the value of x?",
+    "options": ["2", "3", "4", "5"],
+    "correctAnswer": "4"
+  },
+  {
+    "id": 17,
+    "question": "Which blood cells help fight infections?",
+    "options": ["Red blood cells", "White blood cells", "Platelets", "Plasma"],
+    "correctAnswer": "White blood cells"
+  },
+  {
+    "id": 18,
+    "question": "How many bones (approximately) are in the adult human body?",
+    "options": ["Around 50", "Around 200", "Around 400", "Around 1000"],
+    "correctAnswer": "Around 200"
+  },
+  {
+    "id": 19,
+    "question": "What force keeps planets in orbit around the sun?",
+    "options": [
+      "Electromagnetic force",
+      "Nuclear force",
+      "Gravitational force",
+      "Friction"
+    ],
+    "correctAnswer": "Gravitational force"
+  },
+  {
+    "id": 20,
+    "question": "Which is the only metal that is liquid at room temperature?",
+    "options": ["Mercury", "Gold", "Silver", "Copper"],
+    "correctAnswer": "Mercury"
+  },
+  {
+    "id": 21,
+    "question": "What is the national animal of Scotland?",
+    "options": ["Red Deer", "Golden Eagle", "Unicorn", "Highland Cow"],
+    "correctAnswer": "Unicorn"
+  },
+  {
+    "id": 22,
+    "question": "Which US state has the longest coastline?",
+    "options": ["California", "Florida", "Alaska", "Hawaii"],
+    "correctAnswer": "Alaska"
+  },
+  {
+    "id": 23,
+    "question": "What is the capital city of Australia?",
+    "options": ["Sydney", "Melbourne", "Canberra", "Perth"],
+    "correctAnswer": "Canberra"
+  },
+  {
+    "id": 24,
+    "question": "What was the name of the ship that brought the Pilgrims to America in 1620?",
+    "options": [
+      "The Nina",
+      "The Mayflower",
+      "The Santa Maria",
+      "The Endeavour"
+    ],
+    "correctAnswer": "The Mayflower"
+  },
+  {
+    "id": 25,
+    "question": "What year did the Berlin Wall fall?",
+    "options": ["1979", "1989", "1991", "2000"],
+    "correctAnswer": "1989"
+  },
+  {
+    "id": 26,
+    "question": "Who was the first president of the United States?",
+    "options": [
+      "Thomas Jefferson",
+      "Abraham Lincoln",
+      "George Washington",
+      "John Adams"
+    ],
+    "correctAnswer": "George Washington"
+  },
+  {
+    "id": 27,
+    "question": "What is the next number in the sequence: 2, 4, 8, 16, ?",
+    "options": ["20", "24", "32", "40"],
+    "correctAnswer": "32"
+  },
+  {
+    "id": 28,
+    "question": "What is the 3D shape with the least number of faces?",
+    "options": ["Sphere", "Cube", "Pyramid", "Cylinder"],
+    "correctAnswer": "Sphere"
+  },
+  {
+    "id": 29,
+    "question": "How many sides does a heptagon have?",
+    "options": ["5", "6", "7", "8"],
+    "correctAnswer": "7"
+  }
+]
