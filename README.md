@@ -24,7 +24,7 @@ The Mind Maze is an interactive quiz application designed to test general knowle
 
 ## Play this game
 
-This app has been deployed on Netlify, so if you would like to try it out, click **[here](https://app.netlify.com/sites/times-tables-game-alex/overview)**.
+This app has been deployed on Netlify, so if you would like to try it out, click **[here](https://mind-maze-quiz.netlify.app/)**.
 
 ## Technologies Used
 
